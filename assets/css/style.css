@@ -116,14 +116,14 @@ background: url(../img/banner.jpg) no-repeat center center;
 padding: 0%;
 -webkit-background-size: cover;
 background-size: cover;
-margin: auto;
-max-width: 100%;
+width: 100%;
 height: auto;
-position: relative;
-background-size: contain;
+
+
+
 }
     #home h1 {
-        padding:150px 20px 20px 0px;
+        padding:175px 20px 0px 0px;
         color:#ff0000;
         font-size:40px;
         font-weight:900;
@@ -131,9 +131,9 @@ background-size: contain;
     }
 }
     #home h4 {
-        padding:175px 20px 20px 0px;
+        padding:100px 70px 20px 0px;
         color:#ff0000;
-        font-size:40px;
+        font-size:20px;
         font-weight:900;
 
     }
