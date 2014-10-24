@@ -112,6 +112,7 @@ background-color: #fff;
  HOME SECTION
     ===================================*/
 #home{
+position: relative;
 background: url(../img/banner.jpg) no-repeat center center;
 padding: 0%;
 -webkit-background-size: cover;
