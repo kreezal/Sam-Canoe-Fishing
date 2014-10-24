@@ -117,6 +117,7 @@ background: url(../img/banner.jpg) no-repeat center center;
 padding: 0%;
 -webkit-background-size: cover;
 background-size: cover;
+margin: auto;
 }
     #home h1 {
         padding:150px 20px 20px 0px;
