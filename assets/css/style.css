@@ -116,7 +116,7 @@ background: url(../img/banner.jpg) no-repeat center center;
 padding: 0%;
 -webkit-background-size: cover;
 background-size: 100%;
-position: absolute;
+
 
 
 
@@ -126,7 +126,7 @@ position: absolute;
         color:#ff0000;
         font-size:40px;
         font-weight:900;
-
+        
     }
 }
     #home h4 {
