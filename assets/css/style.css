@@ -33,12 +33,12 @@ body {
 }
   
 h2 {
-    color:#ff0000;
+    color:#5CCCCC;
     font-weight:900;
     
 }
 h3{
-    color:#ff0000;
+    color:#009999;
     
 }
 /*h3{
@@ -124,7 +124,7 @@ display: block;
 }
     #home h1 {
         padding:175px 20px 0px 0px;
-        color:#ff0000;
+        color:#33CCCC;
         font-size:40px;
         font-weight:900;
         
@@ -156,7 +156,7 @@ display: block;
        text-align:center;
     }
     #home .overlay {
-              background:rgba(0, 0, 0, 0.3);        
+              background:rgba(0, 0, 0, 0.2);        
         min-height:700px;
     }
     #home h3 {
@@ -268,7 +268,7 @@ color:#fff;
     color: #fff;
 }
 .portfolio-item {
-    border:5px solid #808080;
+    border:0px solid #808080;
     margin:3px;
 }
     .portfolio-item p {
