@@ -41,6 +41,10 @@ h3{
     color:#009999;
     
 }
+
+a:hover{
+  color: 
+}
 /*h3{
     color:#159238;
     
@@ -195,7 +199,7 @@ margin-bottom: 30px;
 #about {
     color: #fff;
      background-color: #000; 
-     padding-top: 20px;
+     padding-top: 80px;
 }
 .big-icon {
     font-size:250px;
@@ -276,6 +280,7 @@ color:#fff;
         color:#fff;
     }
 
+
 /*.portfolio-item .overlay {
    position: absolute;
   top: 0;
@@ -310,7 +315,7 @@ color:#fff;
 	filter: alpha(opacity=100);
 }
 .overlay a,overlay a:hover{
-    color:#fff;
+    color:#428bca;
     text-decoration:none;
 }
 #port-folio .overlay p > span {
