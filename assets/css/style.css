@@ -97,6 +97,11 @@ background-color:#242222;
         color: #fff;
     }
 
+/*top-menu links color on visit*/
+    .navbar-default .navbar-nav > li > a:visited {
+        color: #33CCCC;
+    }
+
 /*top-menu links & margin*/    
 .navbar-nav > li > a {
     margin: 5px 0px 5px 0px;
